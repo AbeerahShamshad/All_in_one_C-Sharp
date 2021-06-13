@@ -1,0 +1,15 @@
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\bin\Debug\All_in_one.exe.config
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\bin\Debug\All_in_one.exe
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\bin\Debug\All_in_one.pdb
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.csprojResolveAssemblyReference.cache
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.Login.resources
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.Properties.Resources.resources
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.csproj.GenerateResource.Cache
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.csproj.CoreCompileInputs.cache
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.exe
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.pdb
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.SignUp.resources
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.Services.resources
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.ConnectedClasses.resources
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.LinqtoSql.resources
+D:\uni work\5th semester\VPL\Final\All_in_one\All_in_one\obj\Debug\All_in_one.DisconnectedClasses.resources
